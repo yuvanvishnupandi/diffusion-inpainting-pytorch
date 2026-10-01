@@ -1,5 +1,5 @@
 ## diffusion-inpainting-pytorch
-
+ 
 Implementation of an AI-based image inpainting system using Diffusion Models in PyTorch. Built for the AARUUSH '26 AI/ML task.
 
 ## Install
